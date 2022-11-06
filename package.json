@@ -1,0 +1,28 @@
+{
+  "name": "strapi-plugin-data-migrate",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "strapi-plugin-data-migrate",
+    "description": "Description of Strapi Plugin Data Migrate plugin",
+    "kind": "plugin",
+    "displayName": "Strapi Plugin Data Migrate"
+  },
+  "dependencies": {
+    "axios": "^1.1.3",
+    "lodash": "^4.17.21"
+  },
+  "author": {
+    "name": "nitin tejuja"
+  },
+  "maintainers": [
+    {
+      "name": "nitin tejuja"
+    }
+  ],
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
