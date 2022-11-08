@@ -63,7 +63,7 @@ const MigratePreview = ({ modifiedData, collectionName, setIsVisible }) => {
           placeholder="URL "
           label="Environment URL"
           name="Strapi Environment URL"
-          hint="https://cms.editage.com"
+          hint="https://cms.strapi.com"
           onChange={(e) => setUrl(e.target.value)}
           value={url}
         />
