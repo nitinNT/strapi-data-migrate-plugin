@@ -1,6 +1,6 @@
 {
-  "name": "strapi-plugin-data-migrate",
-  "version": "0.0.0",
+  "name": "@nitin.tejuja12/strapi-plugin-data-migrate",
+  "version": "1.0.3",
   "description": "This is the description of the plugin.",
   "strapi": {
     "name": "strapi-plugin-data-migrate",
