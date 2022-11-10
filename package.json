@@ -9,6 +9,9 @@
     "displayName": "Strapi Plugin Data Migrate"
   },
   "dependencies": {
+    "@strapi/design-system": "^1.2.8",
+    "@strapi/helper-plugin": "^4.5.0",
+    "@strapi/icons": "^1.2.8",
     "axios": "^1.1.3",
     "lodash": "^4.17.21"
   },
