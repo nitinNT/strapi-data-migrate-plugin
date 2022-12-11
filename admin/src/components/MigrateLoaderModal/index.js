@@ -33,7 +33,7 @@ const MigrateLoaderModal = ({
             {errorDetails && (
               <Flex justifyContent="center" style={{ textAlign: "center" }}>
                 <Typography>
-                  Oops some error occurred please raise issue in our repo
+                  Oops some error occurred while migrating the data
                   <br />
                   {JSON.stringify(errorDetails)}
                 </Typography>

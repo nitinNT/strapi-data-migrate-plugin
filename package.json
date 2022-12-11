@@ -1,10 +1,10 @@
 {
   "name": "@nitin.tejuja12/strapi-plugin-data-migrate",
-  "version": "1.0.3",
-  "description": "This is the description of the plugin.",
+  "version": "1.0.5",
+  "description": "This plugin allows content manangers to migrate the contents from one Strapi CMS environment to other environment.",
   "strapi": {
     "name": "strapi-plugin-data-migrate",
-    "description": "Description of Strapi Plugin Data Migrate plugin",
+    "description": "This plugin allows content manangers to migrate the contents from one Strapi CMS environment to other environment.",
     "kind": "plugin",
     "displayName": "Strapi Plugin Data Migrate"
   },

@@ -53,7 +53,7 @@ const MigratePreview = ({ modifiedData, collectionName, setIsVisible }) => {
       <ModalBody>
         <Box paddingTop={2} paddingBottom={4} paddingLeft={4}>
           <Typography variant="beta">
-            Destination Strapi Envrionment Details
+            Destination Strapi CMS Envrionment Details
           </Typography>
           <Box paddingTop={4}>
             <Divider />
