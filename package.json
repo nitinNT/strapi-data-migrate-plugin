@@ -1,6 +1,6 @@
 {
   "name": "@nitin.tejuja12/strapi-plugin-data-migrate",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "This plugin allows content manangers to migrate the contents from one Strapi CMS environment to other environment.",
   "strapi": {
     "name": "strapi-plugin-data-migrate",
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nitinNT/strapi-data-migrate-plugin"
+    "url": "https://github.com/nitinNT/strapi-plugin-data-migrate"
   },
   "license": "MIT"
 }
